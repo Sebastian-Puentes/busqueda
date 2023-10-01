@@ -1,3 +1,4 @@
+//*SEBASTIAN PUENTES Y SANTIAGO VEIRA*//
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
